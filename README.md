@@ -1,4 +1,4 @@
-# 🏡 US Home Price Index Analysis
+# US Home Price Index Analysis
 
 This project analyzes how macroeconomic factors have influenced the US Home Price Index over the past 20 years (2000–2020).
 
@@ -6,13 +6,13 @@ We built and evaluated multiple regression models to study the relationship betw
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Identify how key macroeconomic factors have impacted US home prices nationally over the past two decades, using the **S&P Case-Shiller Home Price Index** as the target variable.
 
 ---
 
-## 🛠️ Steps Performed
+##  Steps Performed
 
 - **Data Collection:**  
   Sourced individual datasets from [FRED](https://fred.stlouisfed.org/) (Federal Reserve Economic Data).
@@ -34,7 +34,7 @@ Identify how key macroeconomic factors have impacted US home prices nationally o
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 - Inflation Rate, Housing Starts, Interest Rates, and Unemployment Rate significantly impact US home prices.
 - Simple Linear Regression provided initial insights but was improved with Multiple Regression.
@@ -43,7 +43,7 @@ Identify how key macroeconomic factors have impacted US home prices nationally o
 
 ---
 
-## 📈 Technologies Used
+##  Technologies Used
 
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning:** scikit-learn (Linear Regression, Ridge Regression, GridSearchCV)
@@ -51,7 +51,7 @@ Identify how key macroeconomic factors have impacted US home prices nationally o
 
 ---
 
-## 🗂️ Dataset Details
+##  Dataset Details
 
 - **S&P Case-Shiller Home Price Index** (`CSUSHPISA`)
 - **Housing Starts** (`HOUST`)
@@ -64,7 +64,7 @@ All datasets were sourced individually from [FRED](https://fred.stlouisfed.org/)
 
 ---
 
-## 🔗 How to Run
+##  How to Run
 
 1. Clone this repository to your local machine.
 2. Place all downloaded CSV files inside the `data/` directory.
@@ -73,7 +73,7 @@ All datasets were sourced individually from [FRED](https://fred.stlouisfed.org/)
 
 ---
 
-## ✨ Conclusion
+##  Conclusion
 
 Our analysis confirmed that macroeconomic indicators strongly influence US home prices.
 
