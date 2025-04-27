@@ -1,6 +1,6 @@
 # US Home Price Index Analysis
 
-This project analyzes how macroeconomic factors have influenced the US Home Price Index over the past 20 years (2000–2020).
+This project analyzes how macroeconomic factors have influenced the US Home Price Index over the past 20 years (2005-2025).
 
 We built and evaluated multiple regression models to study the relationship between home prices and factors like inflation rate, housing starts, interest rates, unemployment rate, and population growth.
 
